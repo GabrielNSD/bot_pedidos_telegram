@@ -25,3 +25,4 @@ while True:
             reply = make_reply(message)
             bot.send_message(reply, from_)
             bot.send_group_message(item["message"]["text"], 351110135)
+
